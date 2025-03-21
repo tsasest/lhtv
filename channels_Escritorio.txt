@@ -1,0 +1,566 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiafanart_sincolor1.xml.gz"
+#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 FHD (SAT) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=dea87ce042a085fb892c12d1bf3be428e824237d
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=b2543904857ebc4689f1b6659c09a94c6f661c41
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 FHD (*) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=16d0bc18559f9bf853010c654080123109e4044f
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=9f04b67904bf5ec6782ab34e8105bca264c10b62&pid=97
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1  --> NEW ERA II
+http://127.0.0.1:6878/ace/getstream?id=c367738691c63896679e523d4c1c7933729acc7b&pid=101
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1  --> ELCANO
+http://127.0.0.1:6878/ace/getstream?id=d6281d4e6310269b416180442a470d23a4a99dc9&pid=102
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN BAR 1 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=5cadba9736e0ecc0c0051e07f2339aeaa474e486
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN BAR 2 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=d59ad07b387faf6fbb16f17f44cd80ec8f16e96b
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN EVENTOS 1 --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=b30a0318f531cae1233a11e8cda12f4cc39941c3
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN EVENTOS 2 --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=bed372c0cfd3c24090bf8c479719b5765d74be6d
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN EVENTOS 3 --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=5b5e0a59ea2c0ab00189def5927d66d709835d15
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 FHD (SAT) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=46a672a4dfc910eebcf869d48a2efec2af1b54d7
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=20e01f934e60fe20feac8e14806cce08a2a2bf43
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=c72693d177253473288fabc0827b8fefa9d5f7cf
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" ,DAZN 3 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=4a917dd906465938400c6968e707fe2a768c5c05
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" ,DAZN 4 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=1b35844ac5f1ca48cbf760c7ed425078e7138aba
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 BAR FHD (*) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=3709d3c2005ba9b407c8babbdaa2439cbe8242ed
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 FHD (*) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=719df957aad6dac822ba53a65dd8f78e10faef9a
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 FHD (*) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=bf0bad0bb75ff95fa6841ee21adfb0cfe18b8435
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" ,DAZN 3 FHD (*) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=eab9da2d81938c22221ee2043bd6f42691116b6d
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" ,DAZN 4 FHD (*) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=ce11e4e1a141f5d9538ad0cce452bfc317032ed5
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,ELEVEN DAZN 2 --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce&pid=128
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" ,ELEVEN DAZN 4 --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98&pid=129
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,ELEVEN DAZN 5 --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a&pid=130
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,ELEVEN DAZN 6 --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80&pid=131
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN EVENTOS 1 --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=9a81584b459dbcf71f765463cccd643c59894d74&pid=157
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN EVENTOS 2 --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=7a90838e67f415e70fd7c9bb87edeb2da5db1725&pid=158
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=e6a00cb2912609dceeeee88d3f66a2de9718b421&pid=80
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 --> ELCANO
+http://127.0.0.1:6878/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a&pid=84
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 BAR  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=ec10963a4408f96d2089a29af8b7a8ac4b23dd3c&pid=85
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=ddb69a119ab5faf7eeec3cef77e3d591a8242816&pid=87
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 --> ELCANO
+http://127.0.0.1:6878/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a&pid=89
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 --> ELCANO 2
+http://127.0.0.1:6878/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810&pid=90
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 BAR  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=f86e821848931eaa55bcb779e74f62d6a59f41c0&pid=91
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" ,DAZN 3  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=c34a6552886fad4627ea36947fdec3e46e4e3b08&pid=92
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" ,DAZN 3 --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9&pid=94
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" ,DAZN 4  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=5e5b670d44e4f23a49ebe1770458066ac2cf58e3&pid=95
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" ,M+ LaLiga FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=86541e760681d3f51b4e9f7b4b3997beb38307b0
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" ,M+ LaLiga FHD (SAT) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=6e7ac91952e5c8f45d38c4b1669221bed4800813
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" ,M+ LaLiga FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=e954376315de5608543ff24982af6e682e669af2
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" ,M+ LaLiga 2 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=96c4350d8548d40574f70c51b1469e32de756c0a
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" ,M+ LaLiga 3 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=95fb628a3503375c0f5cbf6522f37227993bafce
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" ,BUNDESLIGA 1  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=f2b903b4b286c2cfecc23ebea66a412ec887da45&pid=169
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" ,BUNDESLIGA 2  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=e720d8fef514c63468bdae65d7c20d48e22d7df9&pid=170
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" ,BUNDESLIGA 3  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=f2dc625a32ba3437100b1261fd0751d83d64ce91&pid=171
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" ,M+ LALIGA  --> ELCANO
+http://127.0.0.1:6878/ace/getstream?id=d3de78aebe544611a2347f54d5796bd87f16c92d&pid=40
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" ,M+ LALIGA --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b&pid=43
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" ,M+ LALIGA 2  --> ELCANO
+http://127.0.0.1:6878/ace/getstream?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3&pid=44
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" ,M+ LALIGA 3  --> ELCANO
+http://127.0.0.1:6878/ace/getstream?id=ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4&pid=46
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" ,M+ LALIGA 4  --> ELCANO
+http://127.0.0.1:6878/ace/getstream?id=68697ea4f261289d97bbc3418ad3cbc4180aa32f&pid=48
+#EXTINF:-1 group-title="M+ Laliga Hypermotion" tvg-id="LaLiga Hypermotion" tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" ,LALIGA HYPERMOTION TV FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=714e36c758444ec594660149666dc7b642ceb030
+#EXTINF:-1 group-title="M+ Laliga Hypermotion" tvg-id="LaLiga Hypermotion" tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" ,LALIGA HYPERMOTION TV2 HD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=11b2efc1062a8e0096c923bef49e9cbf5ca92db8
+#EXTINF:-1 group-title="M+ Laliga Hypermotion" tvg-id="LaLiga Hypermotion" tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" ,LALIGA HYPERMOTION TV 3 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=99be70a8d6fd9eb4cc3980236cab4f2cfc62c909
+#EXTINF:-1 group-title="M+ Laliga Hypermotion" tvg-id="LaLiga Hypermotion" tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" ,LALIGA HYPERMOTION TV4 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=0829094f216f639b2ac2d00b6cccce6585de6c7b
+#EXTINF:-1 group-title="M+ Laliga Hypermotion" tvg-id="LaLiga Hypermotion" tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" ,LALIGA HYPERMOTION TV5 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=061f42fcaa7632fb0a889272a731036d033cddf5
+#EXTINF:-1 group-title="M+ Laliga Hypermotion" tvg-id="LaLiga Hypermotion" tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" ,HYPERMOTION  --> NEW ERA II
+http://127.0.0.1:6878/ace/getstream?id=4e066df67d118f95b41f850869abdc663c515186&pid=106
+#EXTINF:-1 group-title="M+ Laliga Hypermotion" tvg-id="LaLiga Hypermotion" tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" ,HYPERMOTION  --> ELCANO
+http://127.0.0.1:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb&pid=107
+#EXTINF:-1 group-title="M+ Laliga Hypermotion" tvg-id="LaLiga HYPERMOTIONTV 2 HD" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligaHYPERMOTION.png" ,HYPERMOTION 2  --> ELCANO
+http://127.0.0.1:6878/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a87456481d&pid=109
+#EXTINF:-1 group-title="M+ Laliga Hypermotion" tvg-id="LaLiga Hypermotion" tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" ,HYPERMOTION 3 --> ELCANO
+http://127.0.0.1:6878/ace/getstream?id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea&pid=111
+#EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,WINTER SERIES BARCELONA --> NEW ERA II
+http://127.0.0.1:6878/ace/getstream?id=bf242abb254854d5b96e8c5f3cddafd8c9be1aca&pid=186
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ LIGA DE CAMPEONES FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=555e59eafc481f9bace87064ec0a2e1cbff35c46
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M+ LIGA DE CAMPEONES 2 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=a6592d8203205ed4156d557cf7e89cd171a0e3cd
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M+ LIGA DE CAMPEONES 2 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=4b445a510e487162cb4e8dd76db4f205b61d5584
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M+ LIGA DE CAMPEONES 3 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=a2737f92238d98040d7c6a1866156bf31c5677dd
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" ,M+ LIGA DE CAMPEONES 4 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=525c14ea1d5cc446a1c6b6ce3c5d68f2e5060b50
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-5-1550.png" ,M+ LIGA DE CAMPEONES 5 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=29762a55736038653c9de6b5c1ef15c93faf9c6d
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ LIGA DE CAMPEONES 6 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=4c30a8d91113a5844f4e169bf99a99e1cb8aa309
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ LIGA DE CAMPEONES 7 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=1bedb890da11e72038914a13187ea50929c9aec0
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ LIGA DE CAMPEONES 8 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=5e1b4b2babaa473633cf1cd845ead7ff6b6fe0e7
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ LIGA DE CAMPEONES 9 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=38c6320b298c093badbc10fd130dde90d64bc092
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ LIGA DE CAMPEONES 10 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=d702abb3ed56ba7fa35e63daa9f6f14936a75792
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ LIGA DE CAMPEONES 11 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=2a489907edaf1275e2209e5a4fed9c19e6798463
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M+ LIGA DE CAMPEONES 12 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=c098f002d0d35baca4baf597d3ef567d68ee48c8
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M+ LIGA DE CAMPEONES 13 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=548ea66bb8e4663a5bf0d2dede22d353f3994787
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" ,M+ LIGA DE CAMPEONES 14 SD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=28e7c2f22073b01b664f795ed8ba638c4d654f03
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-5-1550.png" ,M+ LIGA DE CAMPEONES 15 SD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=4615b5519344eb343b53c07ee74cbea7f08b2ed0
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ LIGA DE CAMPEONES 16 SD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=399d7931525f0868c706e1c1dc040cef0d44cae9
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ LIGA DE CAMPEONES 17 SD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=35b0f9dd56626c3e009afe79f6507ec06e284c50
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,LIGA DE CAMPEONES 6  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=c1de133576bc8b82db0891d850f5e2d448dac9d6&pid=76
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,LIGA DE CAMPEONES 7  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=67492877ee4314e8e88c49eaedc82c556750ae9f&pid=77
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,LIGA DE CAMPEONES 8  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=7dd235ecd152c3d303f29aeaa0728d5c8b588f7c&pid=78
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,LIGA DE CAMPEONES 9  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=a792ff171d110e6d890cb1b5db9d6507d1f292b7&pid=79
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,LIGA DE CAMPEONES  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=ac73acd09d79c46cb818bfd945f20198d1718a85&pid=49
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,LIGA DE CAMPEONES --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370&pid=55
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,LIGA DE CAMPEONES 10  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=acd1991f35379b01cb09b6a7cc4390c34c6e2bf9&pid=56
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,LIGA DE CAMPEONES 11  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=d8550602603193bfa75bf61587dbbb9b3a9a00c7&pid=57
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,LIGA DE CAMPEONES 12  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=d697e4effe3525a0bc64a5c141d766e9ee6c11a3&pid=58
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,LIGA DE CAMPEONES 13  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=43515b0f66e642bfcd800298006911658e208b49&pid=59
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,LIGA DE CAMPEONES 2  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=deb8972491e3817ba2335662d7855d2c2c05a900&pid=64
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,LIGA DE CAMPEONES 2 --> ELCANO
+http://127.0.0.1:6878/ace/getstream?id=abdf9058786a48623d0de51a3adb414ae10b6e72&pid=68
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,LIGA DE CAMPEONES 3  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=8e65f92af1de567f0af83562c5a14a3db6dc8ac8&pid=69
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" ,LIGA DE CAMPEONES 4  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=5a8323792bb3d48f71d1f690d3f5ec4ad5b48301&pid=72
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ GOLF HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" ,MOVISTAR GOLF FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=6b3989747ca94e5d75875a97b4ed843d1a8d43bc
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ GOLF HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" ,MOVISTAR GOLF 2 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=455735de568bcf97bbbd1ddf3f7d173a62a159f2
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#VAMOS FHD (SAT) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=535b56ba59c01069ed4c87235504ecfd84162e0e
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#VAMOS FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=a432081ef17e77c3accf74aa1c4e5009b9f5047e
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#VAMOS ELLAS FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=1b265fcd2d4ebeeb5516f838d175a8818e04e298
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ DEPORTES FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=43daa66ed37acb82c3b3cd5e597428d23b9d2b88
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTES2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png" ,M+ DEPORTES 2 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=26e8df994da33f94fdb70347b304631e59cb3282
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTES3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-3-2502.png" ,M+ DEPORTES 3 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=17000ca03379418a24ba7bca8ef93192270cd5c9
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ DEPORTES 4 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=6a4145f8994fcff2ea581c89d1cf25dfac48c822
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ DEPORTES 5 HD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=42af19430acd9c4198a4649ad4017a1a9c3e39fe
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ DEPORTES FHD (*) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=0569aee1644145a026c120019024a61398ecbd97
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTES2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png" ,M+ DEPORTES FHD 2 (*) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=c5a0a86c754e98f04012578d8d03a9c9ac637dad
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#VAMOS FHD (*) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=62662d67c3c616acceb09d88600dcddb4d59af4a
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,MOVISTAR DEPORTES  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=0f771c30336a0506c74f4aa86762edcb94d21fac&pid=3
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,MOVISTAR DEPORTES  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=a8745bd07dc60413a4fc05caf2cabbfb11952232&pid=4
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,MOVISTAR DEPORTES --> ELCANO
+http://127.0.0.1:6878/ace/getstream?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895&pid=6
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTES2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png" ,MOVISTAR DEPORTES --> ELCANO 2
+http://127.0.0.1:6878/ace/getstream?id=3a74d9869b13e763476800740c6625e715a39879&pid=7
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTES2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png" ,MOVISTAR DEPORTES 2  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=d225087e30f6efe4c6d9b5ae3c2f3829368cd637&pid=9
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTES2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png" ,MOVISTAR DEPORTES 2 --> ELCANO
+http://127.0.0.1:6878/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5&pid=10
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTES3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-3-2502.png" ,MOVISTAR DEPORTES 3  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=985896872c52d04030c112ca99584046d022a349&pid=11
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,MOVISTAR DEPORTES 4  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=23d1bcceacb7606d4ee6deaf9e6034c54eeedd2f&pid=12
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,MOVISTAR DEPORTES 5 --> ELCANO
+http://127.0.0.1:6878/ace/getstream?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac&pid=14
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,MOVISTAR DEPORTES 6 --> ELCANO
+http://127.0.0.1:6878/ace/getstream?id=cc5782d37ae6b6e0bab396dd64074982d0879046&pid=15
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,MOVISTAR DEPORTES 7 --> ELCANO
+http://127.0.0.1:6878/ace/getstream?id=070f82d6443a52962d6a2ed9954c979b29404932&pid=16
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ GOLF HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" ,MOVISTAR GOLF  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=7f1c44c9f362eba2d4a6820a00ff6701ead9e79d&pid=19
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ GOLF HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" ,MOVISTAR GOLF 2  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=d41f974884746560213e68519e5f6b9d51f37470&pid=21
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,MOVISTAR VAMOS  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=47403b07582b05c2a1eadaf6d1fb6454eda03a77&pid=26
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,MOVISTAR VAMOS  --> NEW ERA II
+http://127.0.0.1:6878/ace/getstream?id=c6b52ffb3b84836d334569204797d88bf15d48fa&pid=29
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,MOVISTAR VAMOS --> ELCANO
+http://127.0.0.1:6878/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2&pid=30
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,MOVISTAR VAMOS --> ELCANO 2
+http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb&pid=31
+#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EUROSPORT 1 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=1d735b29ca242360ffe84c677cc02a3817311960
+#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EUROSPORT 1 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=a9f8efad7aa5cd61ddd07f6c3575aed7aa553f49
+#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EUROSPORT 2 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=87100f6c8f6ffaf78eeb9b7eef0e9b382ffe61ff
+#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EUROSPORT 1  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=8e8cf5d0da2f30cd3b266344891a18ed6bacaf50&pid=116
+#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EUROSPORT 1 --> ELCANO
+http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580&pid=118
+#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EUROSPORT 2  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=8e9390c1647da151a7bc0e1b37c4b4d21d83049d&pid=119
+#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EUROSPORT 2  --> NEW ERA II
+http://127.0.0.1:6878/ace/getstream?id=0358f9db953e5fde91c34d7ed4bc368939b49853&pid=120
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LA LIGA FHD (SATT) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=b2aaaa6957acd2fac4184cf44821bb27eeb61b70
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LIGA FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=711e971c2c5fafc8a95f4a70ea16c0cb7da955d9
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LA LIGA 2 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=4b38a91cc7ca46748fef4743ac0b5d193a701f8c
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN BUNDESLIGA 1 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=744d75861b7961ffc785f6f9edc36396fe610695
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN BUNDESLIGA 2 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=5c406a4af1bb51fdf53bea78e7d7a95b6d1fb9d3
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN BUNDESLIGA 3 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=8b1f169fa965eb6fccff8cb78590beba84a8ab56
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LA LIGA 2 FHD (*) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=0a54d530717aa50cb65672a92efa5948286e492c
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LA LIGA FHD (*) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=c7e5f55d71e02b43f18b22b07a294bdf87822aa4
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LA LIGA 1  --> ELCANO
+http://127.0.0.1:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47&pid=32
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LA LIGA 2  --> ELCANO
+http://127.0.0.1:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9&pid=36
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,MGPTV | Camara de a bordo 1 --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=d59e1e43684d27f24348ccd21754b7a438826b42
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,MGPTV | Camara de a bordo 2 --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=11278b69a588c83592ecbf054cfca1fc45542b64
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,MGPTV | Camara de a bordo 3 --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=fc9a5087ba3749d67de63607f3b29a42446b5fba
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,MGPTV | Camara de a bordo 4 --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=cf6f689178b73bea2dc0f6e206ffa40894ceafe9
+#EXTINF:-1 group-title="Otro contenido" tvg-id="GOL HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,Gol Play FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=74398fdfd56c2d440d53206cd1a4d0549a13aa6b
+#EXTINF:-1 group-title="Otro contenido" tvg-id="TELEDEPORTE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-teledeporte-612.png" ,Teledeporte FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=3977c21113c3b89d1ee1a2da7ea5d41769b133f9
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,MOVISTAR SERIES FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=580ea2fdb0bd52db7877648cbd3a586ff4677217
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,MOVISTAR CLASICOS FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=a6cade7fbdee40e60808ec0e568f7668d390b4e2
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,M+ Super Copa (SAT) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=08bf74b427c432b974712d1d950eacaa513287e5
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,M+ Super Copa --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=76eaa5f815461cac46700b5313b84d363297871b
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,M+ SuperCopa del Rey FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=bbd6cd7d0c137aaf2dc6e7c936fd45d7eaea49e2
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,M+ ACCION FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=4589a5762f6b3be7e290b48ea11c0eac8c18884b
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,M+ PLUS 2 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=6337ce87035e8790c1146719725d57739f0a0fb2
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,UFC Fight Pass --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=3048b9c384eaf16734c337c08aabc50ea3e6c5e4
+#EXTINF:-1 group-title="Otro contenido" tvg-id="NBA TV" tvg-logo="https://i.imgur.com/4QrPlos.png" ,NBA TV --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=59377bc73bedf81c5f20a327e09e5fc5f76bdc5f
+#EXTINF:-1 group-title="Otro contenido" tvg-id="NBA TV" tvg-logo="https://i.imgur.com/4QrPlos.png" ,NBA NETWORK --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=d6a01276e7b5e533ebb7f03f825a459a2ee7aef0
+#EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,LA 1 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=dc913528dfdfdba2d58dfd817bdc1610ab236c4e
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,LA 2 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=40fad5c4ddb3b99c99674bc22a82fc4d90ec669d
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,ANTENA 3 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=a90b3dfd3fd5a84f6a7d270f19fb8dfade0b3c0b
+#EXTINF:-1 group-title="Otro contenido" tvg-id="CUATRO HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cuatro-619.png" ,CUATRO FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=a53ebebd85c554af42f752595cb7c9c32255c0f4
+#EXTINF:-1 group-title="Otro contenido" tvg-id="TELECINCO HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a907.png" ,TELECINCO FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=3e73fe77d956b07ff233cdb3b89966fae33391e6
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,LA SEXTA FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=11a75922c4a1983ad3a4936ca9e16e889daec37b
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,M+ PLUS FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=a6c4e14f373adaf466e9a335f86f604444d059b5
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,M+ Super Copa (*) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=9fd0ad6591be70c5c31b7659162cf67ae2dff16e
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,M+ Super Copa (*) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=440fc0139d2ea66c7680b6df85512eaf4dee446a
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,UNTITLED CHANNEL
+http://127.0.0.1:6878/ace/getstream?id=e7330b2c28af22b081ab509df5aac9672a7e037b&pid=159
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,UFC EVENTOS 1
+http://127.0.0.1:6878/ace/getstream?id=916888d956caf960cc8456eb46a12775a858124c&pid=160
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,ONBOARD CARLOS SAINZ --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=ff6c8b62faf8b5130bea01fe2aa14e7bed8b3950&pid=161
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,ONBOARD FERNANDO ALONSO --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=adab1ca1447108f5dcee688d709bdd372a002c4b&pid=162
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,MGPTV | CAMARA DE A BORDO 1 --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=1cc1b4aeaae07bc257ed4951a774beb3d3b44c86&pid=163
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,MGPTV | CAMARA DE A BORDO 2 --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=44a1d2952357564004a1afa2e3e0d262a45c5742&pid=164
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,MGPTV | CAMARA DE A BORDO 3 --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=e55dfcc2111568668e2df397e5de440103c991fb&pid=165
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,MGPTV | CAMARA DE A BORDO 4 --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=8a0957fa263a3dbb986e75fdcf5fbf6ef111b742&pid=166
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Canal 1 (1RFEF) (SOLO EVENTOS) --> NEW ERA V
+http://127.0.0.1:6878/ace/getstream?id=c1ee6e1e0ef5928d8261f855c417de21794f437d&pid=167
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Canal 2 (1RFEF) (SOLO EVENTOS) --> NEW ERA V
+http://127.0.0.1:6878/ace/getstream?id=8677d339ecddd75165c0015025f598b6215974cf&pid=168
+#EXTINF:-1 group-title="Otro contenido" tvg-id="FOX SPORTS" tvg-logo="https://i.imgur.com/wSgo4N2.png" ,FOX  --> NEW ERA II
+http://127.0.0.1:6878/ace/getstream?id=87f3b07097a5dde0b9a22daf95a29dd4475a0595&pid=172
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,HOLLYWOOD  --> NEW ERA II
+http://127.0.0.1:6878/ace/getstream?id=5bd6122d984a90a930b2dafdedfe249eea3457e0&pid=173
+#EXTINF:-1 group-title="Otro contenido" tvg-id="NBA TV" tvg-logo="https://i.imgur.com/4QrPlos.png" ,NBA NETWORK --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=6ad33feec75d929de54d77b9becfe767ae83fcb3&pid=174
+#EXTINF:-1 group-title="Otro contenido" tvg-id="NBA TV" tvg-logo="https://i.imgur.com/4QrPlos.png" ,NBA TV --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=c8aac540621d481965791c4442a7e868bcca10ca&pid=175
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,SKY SPORTS ARENA --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c&pid=176
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,SKY SPORTS CRICKET --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd&pid=177
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                    HD
+http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee&pid=178
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,TENNIS CHANNEL --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=179
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                    HD
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=180
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                    HD
+http://127.0.0.1:6878/ace/getstream?id=5f0da240036638b072e434647e6c6f587f656fa9&pid=181
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                    HD
+http://127.0.0.1:6878/ace/getstream?id=a8545f5f1a366971f6591d3281a730dc14ff5b4e&pid=182
+#EXTINF:-1 group-title="Otro contenido" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,TR: beIN Sports 4  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=22f130a47546d2ddd3d657bd1ea9f7305f6463a4&pid=183
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,TWITCH HIKKI360ES --> NEW ERA II
+http://127.0.0.1:6878/ace/getstream?id=33f0fb5f182a731abe2d13acee8a02cdb618c8d5&pid=184
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,UFC Fight Pass --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=f74dcf44f57fc71cb4b0719b3342e569eba50c51&pid=185
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,UNTITLED CHANNEL
+http://127.0.0.1:6878/ace/getstream?id=2dcc9fa21935872130029206395a12cd10533a75&pid=114
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,COPA DEL REY --> ELCANO
+http://127.0.0.1:6878/ace/getstream?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d&pid=115
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     2
+http://127.0.0.1:6878/ace/getstream?id=95120cee8223e9af839994ecc2b96aef05f8a151&pid=117
+#EXTINF:-1 group-title="Otro contenido" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,BEIN SPORTS 1  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=beb0ebdca8f9678880f54916dfb60a4c715f3ad2&pid=121
+#EXTINF:-1 group-title="Otro contenido" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,BEIN SPORTS 2  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=ade24d45447980731a99ef9b8dbb00d9017b5b3a&pid=122
+#EXTINF:-1 group-title="Otro contenido" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,BEIN SPORTS 3  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=fc8fdbc7dc812c896cc742f0248c67a7ff44dade&pid=123
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,BT Sport 1 [UK] --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce&pid=124
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,BT Sport 1 [UK] --> NEW LOOP 2
+http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b&pid=125
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,BT Sport 2 [UK] --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801&pid=126
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,BT Sport 3 [UK] --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033&pid=127
+#EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN 2 [BE] --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63&pid=132
+#EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN 4 [BE] --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=5f9b19c57195cc28ab81e0ec8cad03b55118687a&pid=133
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                    HD
+http://127.0.0.1:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442&pid=134
+#EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN2 [US] --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394&pid=135
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,PREMIER SPORTS 1 --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565&pid=136
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,PREMIER SPORTS 2 --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537&pid=137
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,SKY SPORTS FOOTBALL --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d&pid=138
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,ZIGGO SPORT --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058&pid=139
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,ZIGGO SPORT 2 --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027&pid=140
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,ZIGGO SPORT 6 --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=9231f38e71a85ad24b4c11a5e360992e30c916ed&pid=141
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                    HD
+http://127.0.0.1:6878/ace/getstream?id=610993aea3a2bfd509594334b7461ce96900f54c&pid=142
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,CANAL MOTOR --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=35e17cc84abc5e393b5acd688536a9681105f2d5&pid=143
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                    HD
+http://127.0.0.1:6878/ace/getstream?id=442aeb6643b8836f9d00361c9e48eeb0841ddf98&pid=144
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,MOTORVISION TV --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404&pid=145
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,RALLY TV --> NEW ERA III
+http://127.0.0.1:6878/ace/getstream?id=1a5e05797b5cbd28b4c529b968b1396613e6ac06&pid=146
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,RETROVISION MOTOR --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=b8b8c4470d3d27c75302cf49ab6c4b52a660bff3&pid=147
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,ANTENA 3  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=c5b1bb99bdee549885d4d680cafbdd0a026239f5&pid=148
+#EXTINF:-1 group-title="Otro contenido" tvg-id="CUATRO HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cuatro-619.png" ,CUATRO  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=da60cf19fab0b9e23aab83bb37d61e8b8c3b7655&pid=149
+#EXTINF:-1 group-title="Otro contenido" tvg-id="GOL HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,GOL PLAY  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=3a2bbdbe4cc775c5c75ccb7d2408363d69c94b5d&pid=150
+#EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,LA 1  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=7225e4b281975f1a36d61dfd9724b669d7747b70&pid=151
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,LA 2  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=56d98cef21d9e242a8c32f36259c850c467e9748&pid=152
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,LA SEXTA  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=a4378aa93f9f436cfd1654160991f554e5395d88&pid=153
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,MEGA  --> NEW ERA II
+http://127.0.0.1:6878/ace/getstream?id=65b66db65acc04f75701f733cab599c375bff645&pid=154
+#EXTINF:-1 group-title="Otro contenido" tvg-id="TELECINCO HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a907.png" ,TELECINCO  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=154c6f876ddf1d9c87880eae0d0442335ec156bf&pid=155
+#EXTINF:-1 group-title="Otro contenido" tvg-id="TELEDEPORTE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-teledeporte-612.png" ,TELEDEPORTE  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=c693df0cbccedec130e2b31453bdbfb3ccb7a648&pid=156
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,UNTITLED CHANNEL
+http://127.0.0.1:6878/ace/getstream?id=47ab133c0bd7c9e6eb6f11661d33101a9d3bfce3&pid=74
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     2
+http://127.0.0.1:6878/ace/getstream?id=7c3791bfaf9b4b215cc63fa2d61902f9bf3da7ff&pid=75
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     2
+http://127.0.0.1:6878/ace/getstream?id=a7e083d922be14a0496d65aad2ff8ea9c8011bd0&pid=81
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     3
+http://127.0.0.1:6878/ace/getstream?id=d5446f3cc8e42ba965fd9f1c73b1e2ac3921a6ab&pid=82
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     4
+http://127.0.0.1:6878/ace/getstream?id=71a65780b9c542a8c9e4084ae5aefdd9286da51e&pid=83
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     2
+http://127.0.0.1:6878/ace/getstream?id=91cf774bfbdc3a7e3b18cffe0e6ca39a957e96b6&pid=86
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     2
+http://127.0.0.1:6878/ace/getstream?id=57e38ef7eaab5596559415bdf96926ee4115c5ce&pid=88
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     2
+http://127.0.0.1:6878/ace/getstream?id=5c7406bfaf65cc32d3f52b1430b53a37bc4c59bc&pid=93
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     2
+http://127.0.0.1:6878/ace/getstream?id=b4b48a6028aa05ca32f583d3019dc2e3e6bd9988&pid=96
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     2
+http://127.0.0.1:6878/ace/getstream?id=4f1d222c600e66ef4990b3d7ea13bfa53f7bfea1&pid=98
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     3
+http://127.0.0.1:6878/ace/getstream?id=5d8613b5fde87f366bb5e41ac8011007a4c6bd3c&pid=99
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     4
+http://127.0.0.1:6878/ace/getstream?id=751aa1f2429dfb9484b67a3ede00d859c6212994&pid=100
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     2
+http://127.0.0.1:6878/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6&pid=103
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     3
+http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa&pid=104
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                    SD
+http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85&pid=105
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                    SD
+http://127.0.0.1:6878/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980&pid=108
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                    SD
+http://127.0.0.1:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a&pid=110
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,COPA DEL REY --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=20d44589bc1e51ffb60d2cd98fb24019c6736772&pid=112
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,COPA DEL REY --> NEW ERA 2
+http://127.0.0.1:6878/ace/getstream?id=c0d688a5045c5446c35f802a567ac3f0fa72b4b6&pid=113
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,UNTITLED CHANNEL
+http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e&pid=38
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     2
+http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f&pid=39
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     2
+http://127.0.0.1:6878/ace/getstream?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163&pid=41
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                    SD
+http://127.0.0.1:6878/ace/getstream?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e&pid=42
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                    SD
+http://127.0.0.1:6878/ace/getstream?id=f31a586422c9244196c810c84b6c85da350318a5&pid=45
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                    SD
+http://127.0.0.1:6878/ace/getstream?id=835639b89db00cc0d94660da3c10b6e38bfbcdc1&pid=47
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     2
+http://127.0.0.1:6878/ace/getstream?id=f43a021e8fd63334a4bf3fb11ffe58f89039a1d0&pid=50
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     3
+http://127.0.0.1:6878/ace/getstream?id=840f68a0dc6e27c2927a16b4d42b9401ac50270b&pid=51
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     4
+http://127.0.0.1:6878/ace/getstream?id=fe521a6e9d2ff31616125fa75bac6b0deb52b6b9&pid=52
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     5
+http://127.0.0.1:6878/ace/getstream?id=05057e832dd1530c7d5e8b0857fee6826243a243&pid=53
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     6
+http://127.0.0.1:6878/ace/getstream?id=ba87f528de030aad56576f7cbb9d8bbd7efd62b9&pid=54
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                    SD
+http://127.0.0.1:6878/ace/getstream?id=f3ad05b2a9a94251ef07682019728ff55ad35922&pid=60
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                    SD
+http://127.0.0.1:6878/ace/getstream?id=e0928b70e63fe0484bf9aeb6de6086ef44efff08&pid=61
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                    SD
+http://127.0.0.1:6878/ace/getstream?id=ce59b6b3640ab5af081d7629cf31bd0efd98561a&pid=62
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                    SD
+http://127.0.0.1:6878/ace/getstream?id=d7b25d4babb6cfa64ce92f9c35b9c3dadee0b5c3&pid=63
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     2
+http://127.0.0.1:6878/ace/getstream?id=bd6fa847d9eb4e6fa44b68da1304bf8684ef8acb&pid=65
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     3
+http://127.0.0.1:6878/ace/getstream?id=0adc3b525508b4a74ce65685870894a77401afb7&pid=66
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     4
+http://127.0.0.1:6878/ace/getstream?id=f7fa79fdad436e969a82389a062a74564e91b10e&pid=67
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     2
+http://127.0.0.1:6878/ace/getstream?id=4d754e0b6b583d01668de8544c43cad6a1b253da&pid=70
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     3
+http://127.0.0.1:6878/ace/getstream?id=509e91774b5b2d0af80883c8d4217c3b53235231&pid=71
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     2
+http://127.0.0.1:6878/ace/getstream?id=291ef48025291b7241ef370f657d0e47132c6fb0&pid=73
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,MOVISTAR ACCION  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=de88ed8716612d9c548df63a168fbdd96843dd20&pid=0
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,MOVISTAR CLASICOS  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=62b6cdc347e9b5f5aff089055365805e4d20d41e&pid=1
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,MOVISTAR COMEDIA  --> NEW ERA II
+http://127.0.0.1:6878/ace/getstream?id=bed9a9fc8e9d07a65591c0e8c31cb558a029f985&pid=2
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     3
+http://127.0.0.1:6878/ace/getstream?id=fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1&pid=5
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                    HD
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3&pid=8
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                    HD
+http://127.0.0.1:6878/ace/getstream?id=14aa86be2b451cd4f5ee6d12e7479885373ea9b3&pid=13
+#EXTINF:-1 group-title="Otro contenido" tvg-id="ELLAS" tvg-logo="https://i.imgur.com/OJaEosP.png" ,MOVISTAR ELLAS  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=e2d26332bf1aa59aec7e3cbe9ed4689df44ae368&pid=17
+#EXTINF:-1 group-title="Otro contenido" tvg-id="ELLAS" tvg-logo="https://i.imgur.com/OJaEosP.png" ,MOVISTAR ELLAS  --> NEW ERA II
+http://127.0.0.1:6878/ace/getstream?id=af636e7b1747cf868eedf242b96bd98f8fbbed4f&pid=18
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                    HD
+http://127.0.0.1:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb&pid=20
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,MOVISTAR PLUS  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=335646e7394ea4eda343c95e57852bb70fc4178f&pid=22
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,MOVISTAR PLUS --> ELCANO
+http://127.0.0.1:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f&pid=23
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,MOVISTAR PLUS 2  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=bbd251f89bc7716e2bef237906ecfba3c562ecde&pid=24
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,MOVISTAR SERIES  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=28dc545c00d47a620bc7243657de5a85811f1254&pid=25
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     2
+http://127.0.0.1:6878/ace/getstream?id=a1660d711184fa701bf1c88395e3b2d43ddca83f&pid=27
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     3
+http://127.0.0.1:6878/ace/getstream?id=6f1f82c3cf6bf4b4ccb6d63d687271878e0e908d&pid=28
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     2
+http://127.0.0.1:6878/ace/getstream?id=ec29289b0b14756e686c03a501bae1efa05be70c&pid=33
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                     3
+http://127.0.0.1:6878/ace/getstream?id=6de4794cd02f88f14354b5996823413a59a1de0f&pid=34
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                    SD
+http://127.0.0.1:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb&pid=35
+#EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,                                    SD
+http://127.0.0.1:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb&pid=37
